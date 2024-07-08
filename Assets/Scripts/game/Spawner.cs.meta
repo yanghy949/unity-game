@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 639158c1d1ddc744ba95e0648cf64bab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemy: {fileID: 170336811928493016, guid: aa1d352d95e80024eaa4c763904c5074, type: 3}
+  - healthPack: {fileID: 5278526212564731728, guid: 396752201f0ed2e429d73d0b250beac0, type: 3}
+  - player: {fileID: 8186596021996924403, guid: 61d9e955be703da46873c00c265881ea, type: 3}
+  - newEnemy: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
